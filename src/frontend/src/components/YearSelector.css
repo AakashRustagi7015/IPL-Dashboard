@@ -1,0 +1,8 @@
+.years-list{
+    text-align: center;
+    list-style-type: none;
+}
+
+.years-list li{
+    margin: 10px ;
+}

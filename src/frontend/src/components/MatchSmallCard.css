@@ -1,0 +1,9 @@
+.MatchSmallCard{
+    padding:10px;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+.MatchSmallCard .winner-section{
+    margin-top: 25px;
+}

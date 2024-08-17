@@ -1,0 +1,26 @@
+.MatchDetailCard{
+    display:grid;
+    grid-template-columns: 1fr 1fr;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 8px;
+}
+.MatchDetailCard .match-venue,.match-date,.match-result{
+    margin-top: 10px;
+}
+
+.MatchDetailCard .additional-details{
+    text-align: right;
+}
+
+.MatchDetailCard .additional-details p{
+    margin-bottom: 20px;
+}
+
+/* .MatchDetailCard.won-card{
+    background-color: #54e1a3;
+}
+
+.MatchDetailCard.lost-card{
+    background-color: #a34d5d;
+} */
