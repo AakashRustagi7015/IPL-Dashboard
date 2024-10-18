@@ -9,7 +9,7 @@ Browse your favorite IPL teams and access their past games details, wins and los
   <li>React JS</li>
 </ul>
 
-# How To Run
+# How To Run locally
 <ol>
   <li>Clone the repository.</li>
   <li>Move to `src/frontend/` from the root directory using the command<sup>[1]</sup>:
