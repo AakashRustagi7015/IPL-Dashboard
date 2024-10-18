@@ -12,13 +12,16 @@ Browse your favorite IPL teams and access their past games details, wins and los
 # How To Run
 <ol>
   <li>Clone the repository.</li>
-  <li>Move to `src/frontend/` from the root directory using the command<sup>[1]</sup>: 
-    ```bash
+  <li>Move to `src/frontend/` from the root directory using the command<sup>[1]</sup>:
+  
       cd src/frontend
-    ```
   </li>
-  <li>Run `npm install` to install the dependencies.<sup>[1]</sup></li>
-  <li>Run `npm build`.<sup>[1]</sup></li>
+  <li>Run the below command to install the dependencies.<sup>[1]</sup></li>
+    
+    npm install 
+  <li>Run <sup>[1]</sup></li>
+    
+    npm build
   <li>Now move to `src/main/java/com/ipl/dashboard/` and run `DashboardApplication.java`.</li>
 </ol>
 
