@@ -4,7 +4,69 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8aa464fe-3e81-42c6-bfd3-13e979a772bf" name="Changes" comment="Removed branch m" />
+    <list default="true" id="8aa464fe-3e81-42c6-bfd3-13e979a772bf" name="Changes" comment="Removed branch m">
+      <change afterPath="$PROJECT_DIR$/frontend/Dockerfile" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/backend/.mvn/wrapper/maven-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw.cmd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/package-lock.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/package.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/logo192.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/logo512.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/manifest.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/public/robots.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/App.test.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/BackButton.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/MatchDetailCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/MatchDetailCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/MatchSmallCard.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/MatchSmallCard.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/PieChart.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/PieChart.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/TeamTile.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/TeamTile.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/YearSelector.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/components/YearSelector.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/index.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/index.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/logo.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/pages/HomePage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/pages/HomePage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/pages/MatchPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/pages/MatchPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/pages/TeamPage.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/pages/TeamPage.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/reportWebVitals.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/frontend/src/setupTests.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/DashboardApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/controllers/MatchController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/controllers/TeamController.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/pojo/Matches.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/pojo/TeamDetails.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/repositories/MatchRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/repositories/TeamRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/ipl/dashboard/utils/matchUtils.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/IPL_Matches_2008_2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/ipl/dashboard/DashboardApplicationTests.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/IPL_Matches_2008_2022.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/DashboardApplication.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/controllers/MatchController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/controllers/TeamController.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/pojo/Matches.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/pojo/TeamDetails.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/repositories/MatchRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/repositories/TeamRepository.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/ipl/dashboard/utils/matchUtils.class" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -15,6 +77,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="Dockerfile" />
       </list>
     </option>
   </component>
@@ -27,12 +90,8 @@
   <component name="GithubDefaultAccount">
     <option name="defaultAccountId" value="ad5a21ca-1509-4141-9f72-c2e6501ed468" />
   </component>
-  <component name="MavenImportPreferences">
-    <option name="generalSettings">
-      <MavenGeneralSettings>
-        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
-      </MavenGeneralSettings>
-    </option>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
@@ -46,10 +105,11 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.Dashboard.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "D:/dashboard/src/frontend/src/pages",
+    "last_opened_file_path": "/home/aakash/IPL-Dashboard/backend/src/main/java",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -59,12 +119,15 @@
       <recent name="D:\dashboard\src\frontend\src\components" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/backend" />
       <recent name="D:\dashboard\src\frontend\src" />
       <recent name="D:\dashboard\src\main\resources" />
     </key>
   </component>
   <component name="RunManager">
     <configuration name="Dashboard" type="Application" factoryName="Application">
+      <option name="ALTERNATIVE_JRE_PATH" value="21" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="com.ipl.dashboard.DashboardApplication" />
       <module name="dashboard" />
       <method v="2">
