@@ -47,7 +47,7 @@ public class matchUtils {
 
 
     public void readFromCSV(){
-        String filePath="/home/aakash/IPL-Dashboard/backend/src/main/resources/IPL_Matches_2008_2022.csv";
+        String filePath="/app/IPL-Dashboard/backend/src/main/resources/IPL_Matches_2008_2022.csv";
         List<List<String>> l =help(filePath);
         List<Matches> ans= new ArrayList<>();
         Map<String, TeamDetails> teamMap= new HashMap<>();
