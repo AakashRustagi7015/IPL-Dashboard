@@ -1,8 +1,0 @@
-com/ipl/dashboard/repositories/MatchRepository.class
-com/ipl/dashboard/pojo/TeamDetails.class
-com/ipl/dashboard/utils/matchUtils.class
-com/ipl/dashboard/pojo/Matches.class
-com/ipl/dashboard/controllers/MatchController.class
-com/ipl/dashboard/DashboardApplication.class
-com/ipl/dashboard/controllers/TeamController.class
-com/ipl/dashboard/repositories/TeamRepository.class
