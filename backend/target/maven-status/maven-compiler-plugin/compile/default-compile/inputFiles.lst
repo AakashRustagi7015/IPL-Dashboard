@@ -5,4 +5,4 @@
 /home/aakash/IPL-Dashboard/backend/src/main/java/com/ipl/dashboard/pojo/TeamDetails.java
 /home/aakash/IPL-Dashboard/backend/src/main/java/com/ipl/dashboard/repositories/MatchRepository.java
 /home/aakash/IPL-Dashboard/backend/src/main/java/com/ipl/dashboard/repositories/TeamRepository.java
-/home/aakash/IPL-Dashboard/backend/src/main/java/com/ipl/dashboard/utils/matchUtils.java
+/home/aakash/IPL-Dashboard/backend/src/main/java/com/ipl/dashboard/service/matchUtils.java

@@ -7,7 +7,7 @@ import org.springframework.stereotype.Repository;
 @Repository
 public interface TeamRepository extends CrudRepository<TeamDetails, Long> {
 
-    @Query(value = "Select * from Teams where Teams.team_Name=?1",nativeQuery = true)
+    @Query(value = "Select * from teams where teams.team_Name=?1",nativeQuery = true)
     public TeamDetails findTeambyName(String teamName);
 }
 
